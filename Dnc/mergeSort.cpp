@@ -18,7 +18,7 @@ void merge(int* arr, int start, int end){
 
     k = mid + 1;
     for(int i = 0; i < len2; i++){
-        right[i] = arr[k];
+        right[i]  = arr[k];
         k++;
     }
 
