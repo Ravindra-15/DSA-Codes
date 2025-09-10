@@ -7,7 +7,6 @@ int main() {
     int arr[] = {10, 20, 30, 40, 50,};
 
     // Total size of array in bytes
-
     cout << "Size of array in bytes: " << sizeof(arr) << endl;
 
     // Size of one element
